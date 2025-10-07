@@ -1,6 +1,6 @@
-Autor 1:Carlos Gil 
-Autor 2:João Gabriel 
-Turma:2°L
+**Autor 1**:Carlos Gil 
+**Autor 2**:João Gabriel 
+**Turma:2°L**
 
 
 Fork é uma cópia independente de um repositório no GitHub, usada para contribuir com projetos que você não controla.  
